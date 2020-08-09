@@ -1,0 +1,81 @@
+*{ font-size: 14px;}
+.aituqu-nav {
+  background-color: #343a40;
+}
+
+.aituqu-nav nav {
+  width: 1196px;
+  margin: 0 auto;
+}
+.aituqu-nav-title{
+  padding: .5rem 1rem;
+  color: #6c757d;
+  font-weight: bold;
+}
+.aituqu-pro {
+  margin-bottom: 20px;
+}
+
+.wrapper {
+  width: 1196px;
+  margin: 0 auto 20px auto;
+  padding-top: 80px;
+  display: flex;
+}
+
+.main {
+  flex-grow: 1;
+  width: 676px;
+}
+
+.left {
+  flex: 0 1 180px;
+  order: -1;
+  padding-right: 20px;
+}
+
+.right {
+  flex: 0 1 300px;
+  order: 1;
+  padding-left: 20px;
+}
+
+.aituqu-list .card {
+  margin-bottom: 20px;
+}
+
+.aituqu-tabs {
+  margin: 20px auto;
+}
+
+.aituqu-footer {
+  width: 1196px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 30px;
+  height: 50px;
+}
+
+.card-img {
+  text-align: center;
+}
+
+.card-img .is_a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  border-radius: 20px;
+  background-color: rgba(239, 47, 114, 0.4);
+  line-height: 40px;
+  text-align: center;
+  color: #FFF;
+  margin: -20px 0 0 -20px;
+}
+.card-page{ text-align: center;}
+.card-page a{margin: 10px;}
+#aituqu-info.jumbotron{ padding: 10px;}
+#aituqu-info.jumbotron h1{ font-size: 18px; font-weight: bold;}
+#aituqu-info.jumbotron .lead{ font-size: 14px;}
