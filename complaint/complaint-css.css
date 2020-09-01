@@ -1,4 +1,4 @@
-body {
+﻿body {
     margin: 0px;
     padding: 0px;
 }
@@ -108,7 +108,7 @@ textarea {
     height: 48px;
     background-color: red;
     display: inline-block;
-    background: url(../images/icon-chose-nor.png) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/myloc-t/images/complaint/icon-chose-nor.png) no-repeat;
     position: relative;
     background-size: 48px;
     top: 10px;
@@ -119,7 +119,7 @@ textarea {
     height: 48px;
     background-color: red;
     display: inline-block;
-    background: url(../images/icon-chose-pres.png) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/myloc-t/images/complaint/icon-chose-pres.png) no-repeat;
     background-size: 48px;
     position: relative;
     top: 10px;
